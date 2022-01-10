@@ -77,5 +77,148 @@
                 "beginner"
             ]
         }
+    },
+    {
+        "id": "8",
+        "name": "Book database",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "9",
+        "name": "Notes",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "10",
+        "name": "Personal diary",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "11",
+        "name": "Tic-tac-toe",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner", "game"
+            ]
+        }
+    },
+    {
+        "id": "12",
+        "name": "Bill tracker",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "13",
+        "name": "Chat",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "14",
+        "name": "Game of life",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "15",
+        "name": "Parking finder",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "16",
+        "name": "Counter",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "17",
+        "name": "Quiz",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "18",
+        "name": "Shopping list",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "19",
+        "name": "Reminder",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
+    },
+    {
+        "id": "20",
+        "name": "Crime alert",
+        "attributes": {
+            "summary": "SOme longish description",
+            "image": "",
+            "tags": [
+                "beginner"
+            ]
+        }
     }
 ]
