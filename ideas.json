@@ -3,11 +3,12 @@
         "id": "1",
         "name": "ToDo",
         "attributes": {
-            "summary": "SOme longish description",
+            "summary": "Managing various tasks",
             "image": "",
             "tags": [
                 "beginner",
-                "persistance"
+                "persistance",
+                "database"
             ]
         }
     },
@@ -15,11 +16,12 @@
         "id": "2",
         "name": "Weight tracker",
         "attributes": {
-            "summary": "SOme longish description",
+            "summary": "Keeping record of body weight",
             "image": "",
             "tags": [
                 "beginner",
-                "persistance"
+                "persistance",
+                "database"
             ]
         }
     },
@@ -27,10 +29,11 @@
         "id": "3",
         "name": "Calculator",
         "attributes": {
-            "summary": "SOme longish description",
+            "summary": "Simple or more complicated app to perform calculations",
             "image": "",
             "tags": [
-                "beginner"
+                "beginner",
+                "math"
             ]
         }
     },
