@@ -4,7 +4,7 @@
         "name": "ToDo",
         "attributes": {
             "summary": "Managing various tasks",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/todo.jpg",
             "tags": [
                 "beginner",
                 "persistance",
@@ -17,7 +17,7 @@
         "name": "Weight tracker",
         "attributes": {
             "summary": "Keeping record of body weight",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/wheight-tracker.jpg",
             "tags": [
                 "beginner",
                 "persistance",
@@ -30,7 +30,7 @@
         "name": "Calculator",
         "attributes": {
             "summary": "Simple or more complicated app to perform calculations",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/calculator.jpg",
             "tags": [
                 "beginner",
                 "math"
