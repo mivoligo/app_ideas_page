@@ -21,7 +21,8 @@
             "tags": [
                 "beginner",
                 "persistance",
-                "database"
+                "database",
+                "personal"
             ]
         }
     },
@@ -29,7 +30,7 @@
         "id": "3",
         "name": "Calculator",
         "attributes": {
-            "summary": "Simple or more complicated app to perform calculations",
+            "summary": "Performing simple or complicated calculations",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/calculator.jpg",
             "tags": [
                 "beginner",
@@ -41,21 +42,21 @@
         "id": "4",
         "name": "Expenses tracker",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Keeping track of money spend",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/expenses-tracker.jpg",
             "tags": [
-                "beginner"
+                "beginner", "money", "database", "persistance", "personal"
             ]
         }
     },
     {
         "id": "5",
-        "name": "Pomodoro",
+        "name": "Pomodoro timer",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Managing time efficiently using Pomodoro technique",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/pomodoro.jpg",
             "tags": [
-                "beginner"
+                "beginner", "time"
             ]
         }
     },
@@ -63,10 +64,11 @@
         "id": "6",
         "name": "Meme generator",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Creating memes",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/meme-generator.jpg",
             "tags": [
-                "beginner"
+                "beginner",
+                "image", "sharing", "online"
             ]
         }
     },
@@ -74,10 +76,12 @@
         "id": "7",
         "name": "Recipes",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Helpful when preparing food",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/recipes.jpg",
             "tags": [
-                "beginner"
+                "beginner",
+                "food",
+                "database"
             ]
         }
     },
@@ -85,10 +89,10 @@
         "id": "8",
         "name": "Book database",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Keeping record of books",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/book-database.jpg",
             "tags": [
-                "beginner"
+                "beginner", "personal", "database", "persistance"
             ]
         }
     },
@@ -96,10 +100,12 @@
         "id": "9",
         "name": "Notes",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Simple sticky notes",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/notes.jpg",
             "tags": [
-                "beginner"
+                "beginner",
+                "database",
+                "persistance"
             ]
         }
     },
@@ -107,10 +113,13 @@
         "id": "10",
         "name": "Personal diary",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Keeping record of various events",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/diary.jpg",
             "tags": [
-                "beginner"
+                "persistance",
+                "database",
+                "calendar",
+                "time"
             ]
         }
     },
@@ -121,7 +130,8 @@
             "summary": "SOme longish description",
             "image": "",
             "tags": [
-                "beginner", "game"
+                "beginner",
+                "game"
             ]
         }
     },
