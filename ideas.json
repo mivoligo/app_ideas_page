@@ -45,7 +45,11 @@
             "summary": "Keeping track of money spend",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/expenses-tracker.jpg",
             "tags": [
-                "beginner", "money", "database", "persistance", "personal"
+                "beginner",
+                "money",
+                "database",
+                "persistance",
+                "personal"
             ]
         }
     },
@@ -56,7 +60,8 @@
             "summary": "Managing time efficiently using Pomodoro technique",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/pomodoro.jpg",
             "tags": [
-                "beginner", "time"
+                "beginner",
+                "time"
             ]
         }
     },
@@ -68,7 +73,9 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/meme-generator.jpg",
             "tags": [
                 "beginner",
-                "image", "sharing", "online"
+                "image",
+                "sharing",
+                "online"
             ]
         }
     },
@@ -92,7 +99,10 @@
             "summary": "Keeping record of books",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/book-database.jpg",
             "tags": [
-                "beginner", "personal", "database", "persistance"
+                "beginner",
+                "personal",
+                "database",
+                "persistance"
             ]
         }
     },
@@ -127,8 +137,8 @@
         "id": "11",
         "name": "Tic-tac-toe",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Also knows as noughts and crosses, or Xs and Os",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/tic-tac-toe.jpg",
             "tags": [
                 "beginner",
                 "game"
@@ -137,12 +147,12 @@
     },
     {
         "id": "12",
-        "name": "Bill tracker",
+        "name": "Unit converter",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Converting between various measurement units",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/unit-converter.jpg",
             "tags": [
-                "beginner"
+                "beginner", "math"
             ]
         }
     },
@@ -150,21 +160,25 @@
         "id": "13",
         "name": "Chat",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Text message communication",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/chat.jpg",
             "tags": [
-                "beginner"
+                "communication",
+                "online"
             ]
         }
     },
     {
         "id": "14",
-        "name": "Game of life",
+        "name": "Fuel tracker",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Recording use of fuel",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/fuel.jpg",
             "tags": [
-                "beginner"
+                "beginner",
+                "math",
+                "database",
+                "persistance"
             ]
         }
     },
@@ -172,10 +186,12 @@
         "id": "15",
         "name": "Parking finder",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Finding a place to park a vehicle",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/parking.jpg",
             "tags": [
-                "beginner"
+                "map",
+                "api",
+                "location"
             ]
         }
     },
@@ -183,10 +199,11 @@
         "id": "16",
         "name": "Counter",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Counting things",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/counter.jpg",
             "tags": [
-                "beginner"
+                "beginner",
+                "math"
             ]
         }
     },
@@ -194,10 +211,10 @@
         "id": "17",
         "name": "Quiz",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Testing knowledge in a fun way",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/quiz.jpg",
             "tags": [
-                "beginner"
+                "beginner", "game"
             ]
         }
     },
@@ -205,10 +222,10 @@
         "id": "18",
         "name": "Shopping list",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Getting the right stuff at the shop",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/shopping-list.jpg",
             "tags": [
-                "beginner"
+                "beginner", "persistance", "database"
             ]
         }
     },
@@ -216,10 +233,11 @@
         "id": "19",
         "name": "Reminder",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Don't forget about important events",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/reminder.jpg",
             "tags": [
-                "beginner"
+                "calendar",
+                "time"
             ]
         }
     },
@@ -227,10 +245,12 @@
         "id": "20",
         "name": "Crime alert",
         "attributes": {
-            "summary": "SOme longish description",
-            "image": "",
+            "summary": "Check how safe is an area",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/crime-alert.jpg",
             "tags": [
-                "beginner"
+                "location",
+                "map",
+                "api"
             ]
         }
     }
