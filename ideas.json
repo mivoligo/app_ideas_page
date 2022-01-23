@@ -9,6 +9,10 @@
                 "beginner",
                 "persistance",
                 "database"
+            ],
+            "keyword": [
+                "todo",
+                "task"
             ]
         }
     },
@@ -23,6 +27,11 @@
                 "persistance",
                 "database",
                 "personal"
+            ],
+            "search_keywords": [
+                "body",
+                "weight",
+                "tracker"
             ]
         }
     },
@@ -35,6 +44,10 @@
             "tags": [
                 "beginner",
                 "math"
+            ],
+            "search_keywords": [
+                "calculator",
+                "simple"
             ]
         }
     },
@@ -50,6 +63,12 @@
                 "database",
                 "persistance",
                 "personal"
+            ],
+            "search_keywords": [
+                "expenses",
+                "tracker",
+                "bills",
+                "money"
             ]
         }
     },
@@ -62,6 +81,9 @@
             "tags": [
                 "beginner",
                 "time"
+            ],
+            "search_keywords": [
+                "pomodoro"
             ]
         }
     },
@@ -76,6 +98,10 @@
                 "image",
                 "sharing",
                 "online"
+            ],
+            "search_keywords": [
+                "meme",
+                "generator"
             ]
         }
     },
@@ -89,6 +115,10 @@
                 "beginner",
                 "food",
                 "database"
+            ],
+            "search_keywords": [
+                "food",
+                "recipes"
             ]
         }
     },
@@ -103,6 +133,10 @@
                 "personal",
                 "database",
                 "persistance"
+            ],
+            "search_keywords": [
+                "books",
+                "collection"
             ]
         }
     },
@@ -116,6 +150,10 @@
                 "beginner",
                 "database",
                 "persistance"
+            ],
+            "search_keywords": [
+                "sticky",
+                "notes"
             ]
         }
     },
@@ -130,6 +168,11 @@
                 "database",
                 "calendar",
                 "time"
+            ],
+            "search_keywords": [
+                "personal",
+                "diary",
+                "planner"
             ]
         }
     },
@@ -142,6 +185,9 @@
             "tags": [
                 "beginner",
                 "game"
+            ],
+            "search_keywords": [
+                "tic-tac-toe"
             ]
         }
     },
@@ -152,7 +198,12 @@
             "summary": "Converting between various measurement units",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/unit-converter.jpg",
             "tags": [
-                "beginner", "math"
+                "beginner",
+                "math"
+            ],
+            "search_keywords": [
+                "unit",
+                "converter"
             ]
         }
     },
@@ -165,6 +216,10 @@
             "tags": [
                 "communication",
                 "online"
+            ],
+            "search_keywords": [
+                "chat",
+                "messaging"
             ]
         }
     },
@@ -179,6 +234,11 @@
                 "math",
                 "database",
                 "persistance"
+            ],
+            "search_keywords": [
+                "fuel",
+                "tracker",
+                "expenses"
             ]
         }
     },
@@ -192,6 +252,11 @@
                 "map",
                 "api",
                 "location"
+            ],
+            "search_keywords": [
+                "parking",
+                "finder",
+                "location"
             ]
         }
     },
@@ -204,6 +269,10 @@
             "tags": [
                 "beginner",
                 "math"
+            ],
+            "search_keywords": [
+                "counter",
+                "tally"
             ]
         }
     },
@@ -214,7 +283,12 @@
             "summary": "Testing knowledge in a fun way",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/quiz.jpg",
             "tags": [
-                "beginner", "game"
+                "beginner",
+                "game"
+            ],
+            "search_keywords": [
+                "quiz",
+                "answers"
             ]
         }
     },
@@ -225,7 +299,13 @@
             "summary": "Getting the right stuff at the shop",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/shopping-list.jpg",
             "tags": [
-                "beginner", "persistance", "database"
+                "beginner",
+                "persistance",
+                "database"
+            ],
+            "search_keywords": [
+                "shopping",
+                "list"
             ]
         }
     },
@@ -238,6 +318,11 @@
             "tags": [
                 "calendar",
                 "time"
+            ],
+            "search_keywords": [
+                "reminder",
+                "periodic",
+                "date"
             ]
         }
     },
@@ -251,6 +336,10 @@
                 "location",
                 "map",
                 "api"
+            ],
+            "search_keywords": [
+                "crime",
+                "alert"
             ]
         }
     }
