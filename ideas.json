@@ -67,7 +67,6 @@
             "search_keywords": [
                 "expenses",
                 "tracker",
-                "bills",
                 "money"
             ]
         }
@@ -171,8 +170,7 @@
             ],
             "search_keywords": [
                 "personal",
-                "diary",
-                "planner"
+                "diary"
             ]
         }
     },
@@ -237,8 +235,7 @@
             ],
             "search_keywords": [
                 "fuel",
-                "tracker",
-                "expenses"
+                "tracker"
             ]
         }
     },
@@ -255,8 +252,7 @@
             ],
             "search_keywords": [
                 "parking",
-                "finder",
-                "location"
+                "finder"
             ]
         }
     },
@@ -288,7 +284,7 @@
             ],
             "search_keywords": [
                 "quiz",
-                "answers"
+                "game"
             ]
         }
     },
@@ -321,7 +317,6 @@
             ],
             "search_keywords": [
                 "reminder",
-                "periodic",
                 "date"
             ]
         }
