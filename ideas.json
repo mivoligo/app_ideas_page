@@ -15,6 +15,7 @@
                 "Tasks can have details like: created date, due date or priority",
                 "User can put tasks in groups"
             ],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "persistance",
@@ -34,6 +35,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/wheight-tracker.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "persistance",
@@ -55,6 +57,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/calculator.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "math"
@@ -73,6 +76,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/expenses-tracker.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "money",
@@ -95,6 +99,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/pomodoro.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "time"
@@ -112,6 +117,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/meme-generator.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "image",
@@ -132,6 +138,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/recipes.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "food",
@@ -151,6 +158,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/book-database.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "personal",
@@ -171,6 +179,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/notes.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "database",
@@ -190,6 +199,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/diary.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "persistance",
                 "database",
@@ -210,6 +220,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/tic-tac-toe.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "game"
@@ -227,6 +238,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/unit-converter.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "math"
@@ -245,6 +257,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/chat.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "communication",
                 "online"
@@ -263,6 +276,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/fuel.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "math",
@@ -283,6 +297,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/parking.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "map",
                 "api",
@@ -302,6 +317,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/counter.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "math"
@@ -320,6 +336,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/quiz.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "game"
@@ -338,6 +355,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/shopping-list.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "beginner",
                 "persistance",
@@ -357,6 +375,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/reminder.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "calendar",
                 "time"
@@ -375,6 +394,7 @@
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/crime-alert.jpg",
             "description": "Lorem ipsum sit dolor amet ",
             "features": [],
+            "useful_resources": [],
             "tags": [
                 "location",
                 "map",
