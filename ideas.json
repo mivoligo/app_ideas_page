@@ -5,6 +5,7 @@
         "attributes": {
             "summary": "Managing various tasks",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/todo.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "persistance",
@@ -20,8 +21,9 @@
         "id": "2",
         "name": "Weight tracker",
         "attributes": {
-            "summary": "Keeping record of body weight",
+            "summary": "Keeping records of body weight",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/wheight-tracker.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "persistance",
@@ -41,6 +43,7 @@
         "attributes": {
             "summary": "Performing simple or complicated calculations",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/calculator.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "math"
@@ -57,6 +60,7 @@
         "attributes": {
             "summary": "Keeping track of money spend",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/expenses-tracker.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "money",
@@ -77,6 +81,7 @@
         "attributes": {
             "summary": "Managing time efficiently using Pomodoro technique",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/pomodoro.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "time"
@@ -92,6 +97,7 @@
         "attributes": {
             "summary": "Creating memes",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/meme-generator.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "image",
@@ -110,6 +116,7 @@
         "attributes": {
             "summary": "Helpful when preparing food",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/recipes.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "food",
@@ -123,10 +130,11 @@
     },
     {
         "id": "8",
-        "name": "Book database",
+        "name": "Books database",
         "attributes": {
-            "summary": "Keeping record of books",
+            "summary": "Keeping books in organized collection",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/book-database.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "personal",
@@ -145,6 +153,7 @@
         "attributes": {
             "summary": "Simple sticky notes",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/notes.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "database",
@@ -160,8 +169,9 @@
         "id": "10",
         "name": "Personal diary",
         "attributes": {
-            "summary": "Keeping record of various events",
+            "summary": "Keeping records of various events",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/diary.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "persistance",
                 "database",
@@ -180,6 +190,7 @@
         "attributes": {
             "summary": "Also knows as noughts and crosses, or Xs and Os",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/tic-tac-toe.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "game"
@@ -195,6 +206,7 @@
         "attributes": {
             "summary": "Converting between various measurement units",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/unit-converter.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "math"
@@ -211,6 +223,7 @@
         "attributes": {
             "summary": "Text message communication",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/chat.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "communication",
                 "online"
@@ -223,10 +236,11 @@
     },
     {
         "id": "14",
-        "name": "Fuel tracker",
+        "name": "Fuel calculator",
         "attributes": {
-            "summary": "Recording use of fuel",
+            "summary": "Keeping records of spending on fuel",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/fuel.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "math",
@@ -235,7 +249,7 @@
             ],
             "search_keywords": [
                 "fuel",
-                "tracker"
+                "calculator"
             ]
         }
     },
@@ -245,6 +259,7 @@
         "attributes": {
             "summary": "Finding a place to park a vehicle",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/parking.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "map",
                 "api",
@@ -262,6 +277,7 @@
         "attributes": {
             "summary": "Counting things",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/counter.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "math"
@@ -278,6 +294,7 @@
         "attributes": {
             "summary": "Testing knowledge in a fun way",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/quiz.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "game"
@@ -294,6 +311,7 @@
         "attributes": {
             "summary": "Getting the right stuff at the shop",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/shopping-list.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "beginner",
                 "persistance",
@@ -311,6 +329,7 @@
         "attributes": {
             "summary": "Don't forget about important events",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/reminder.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "calendar",
                 "time"
@@ -327,6 +346,7 @@
         "attributes": {
             "summary": "Check how safe is an area",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/crime-alert.jpg",
+            "description": "Lorem ipsum sit dolor amet ",
             "tags": [
                 "location",
                 "map",
