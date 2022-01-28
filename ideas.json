@@ -6,7 +6,15 @@
             "summary": "Managing various tasks",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/todo.jpg",
             "description": "The classic To-Do application where a user can write down things they want to accomplish.",
-            "features": [],
+            "features": [
+                "User can add a new task",
+                "User can mark a task as completed",
+                "User can delete a task",
+                "User can edit a task",
+                "Tasks can be visible in a list",
+                "Tasks can have details like: created date, due date or priority",
+                "User can put tasks in groups"
+            ],
             "tags": [
                 "beginner",
                 "persistance",
