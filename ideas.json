@@ -1,11 +1,11 @@
 [
     {
         "id": "1",
-        "name": "ToDo",
+        "name": "To-Do",
         "attributes": {
             "summary": "Managing various tasks",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/todo.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
+            "description": "The classic To-Do application where a user can write down things they want to accomplish.",
             "tags": [
                 "beginner",
                 "persistance",
