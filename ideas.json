@@ -417,16 +417,23 @@
     },
     {
         "id": "19",
-        "name": "Reminder",
+        "name": "Event reminder",
         "attributes": {
             "summary": "Don't forget about important events",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/reminder.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Build an app to organize your daily life. Creating such an app can teach you about calendars, time zones, and how problematic they are in programming.",
+            "features": [
+                "User can create an event",
+                "User can edit an event",
+                "User can delete an event",
+                "Notifications remind the user about the events"
+            ],
             "useful_resources": [],
             "tags": [
                 "calendar",
-                "time"
+                "time",
+                "persistance",
+                "database"
             ],
             "search_keywords": [
                 "reminder",
