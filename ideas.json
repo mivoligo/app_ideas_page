@@ -55,8 +55,14 @@
         "attributes": {
             "summary": "Performing simple or complicated calculations",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/calculator.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Calculators are not only one of the most useful tools available, but they are also a great way to understand UI and event processing in an application",
+            "features": [
+                "A display showing current number entered or the result of the last operation",
+                "Entry pad containing buttons for the digits 0-9 and mathematical operations",
+                "Additional buttons for clearing the input or saving calculations in memory",
+                "User can enter numbers as sequences of digits",
+                "User can select operation to be performed and see the result on the display"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
