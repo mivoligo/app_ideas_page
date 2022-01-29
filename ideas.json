@@ -399,8 +399,14 @@
         "attributes": {
             "summary": "Counting things",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/counter.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Simple app where user can tap a button to increase the count. Good opportunity to showcase your UI skills",
+            "features": [
+                "User can see the current counter value",
+                "User can press a button to increase the counter",
+                "User can press a button to decrease the counter",
+                "User can edit the starting value of the counter",
+                "User can reset the counter"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
