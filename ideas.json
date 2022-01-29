@@ -149,8 +149,13 @@
         "attributes": {
             "summary": "Helpful when preparing food",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/recipes.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "The objective of the Recipe app is to help the user manage recipes in a way that will make them easy to follow.",
+            "features": [
+                "User can see a list of recipes names",
+                "User can search for a specific dish or an ingredient",
+                "User can select a recipe to see its details",
+                "User can add their own receipt"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
