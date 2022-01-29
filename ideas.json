@@ -170,22 +170,25 @@
     },
     {
         "id": "8",
-        "name": "Books database",
+        "name": "Book finder",
         "attributes": {
-            "summary": "Keeping books in organized collection",
+            "summary": "Finding books",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/book-database.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Create an application that will allow users to search for books by entering a query (Title, Author, etc).",
+            "features": [
+                "User can enter a search query",
+                "After submitting the query, API is called which gives results relevant to the query",
+                "User can see the results with data like: title, author, picture, published date, etc"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
-                "personal",
-                "database",
-                "persistance"
+                "api",
+                "books"
             ],
             "search_keywords": [
                 "books",
-                "collection"
+                "finder"
             ]
         }
     },
