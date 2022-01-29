@@ -296,8 +296,14 @@
         "attributes": {
             "summary": "Converting between various measurement units",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/unit-converter.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "A tool to convert between number of different units can be vary useful.",
+            "features": [
+                "User can select a type of measurement, like temperature, length, volume, etc",
+                "User can select two units for conversion between them",
+                "User can enter a value for conversion",
+                "The converted value is displayed after a button click or automatically updated while user types",
+                "User can save favorite conversion types"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
