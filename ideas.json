@@ -128,14 +128,22 @@
         "attributes": {
             "summary": "Creating memes",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/meme-generator.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Allow users to generate custom memes by adding text over an image.",
+            "features": [
+                "User can select an image for editing",
+                "User can add text in various parts of the image",
+                "User can select color of the text",
+                "User can select the size and font of the text",
+                "User can save the resulting meme",
+                "User can share the meme on social media"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
                 "image",
                 "sharing",
-                "online"
+                "online",
+                "social media"
             ],
             "search_keywords": [
                 "meme",
