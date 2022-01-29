@@ -183,8 +183,14 @@
         "attributes": {
             "summary": "Simple sticky notes",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/notes.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Create and store notes for later purpose",
+            "features": [
+                "User can create a note",
+                "User can edit a note",
+                "User can delete a note",
+                "User can see created notes after restarting the app",
+                "Notes can have details like: created date or a specific category"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
