@@ -290,12 +290,19 @@
         "attributes": {
             "summary": "Text message communication",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/chat.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Real-time or delayed chat interface where users can interact with each other by sending messages.",
+            "features": [
+                "User can register/sign in",
+                "User can enter a text and send it as a message",
+                "User can select who to message",
+                "User can see messages he received",
+                "User can send images and other files"
+            ],
             "useful_resources": [],
             "tags": [
                 "communication",
-                "online"
+                "online",
+                "social media"
             ],
             "search_keywords": [
                 "chat",
