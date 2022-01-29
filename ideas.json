@@ -85,8 +85,13 @@
         "attributes": {
             "summary": "Keeping track of money spend",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/expenses-tracker.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "All your expenses in one place",
+            "features": [
+                "User can add a new expense",
+                "User can edit existing expense",
+                "User can see statistics for the last week, month, year",
+                "User can set the currencies"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
