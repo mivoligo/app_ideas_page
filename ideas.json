@@ -242,8 +242,17 @@
         "attributes": {
             "summary": "Keeping records of various events",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/diary.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "An app to keep record of important moments of your life",
+            "features": [
+                "User can add an event",
+                "User can edit an event",
+                "User can delete an event",
+                "User can edit the date of the event",
+                "An event might have photos, videos or other data along with the description",
+                "User can setup a password to limit access to the diary",
+                "User can search for an event",
+                "User can bookmark an event"
+            ],
             "useful_resources": [],
             "tags": [
                 "persistance",
