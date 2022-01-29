@@ -33,8 +33,13 @@
         "attributes": {
             "summary": "Keeping records of body weight",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/wheight-tracker.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "The app allows storing user's body weight",
+            "features": [
+                "User can input current body weight",
+                "Time of measurement is stored",
+                "User can see previous records and changes over time",
+                "User can change units of measurement"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
