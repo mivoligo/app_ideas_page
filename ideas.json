@@ -449,8 +449,13 @@
         "attributes": {
             "summary": "Getting the right stuff at the shop",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/shopping-list.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "The app helps you when shopping. Don't waste time thinking why are you actually in this shop.",
+            "features": [
+                "User can add a new item",
+                "User can edit an item",
+                "User can mark the item as bought",
+                "User can delete an item"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
@@ -491,21 +496,25 @@
     },
     {
         "id": "20",
-        "name": "Crime alert",
+        "name": "Weather",
         "attributes": {
-            "summary": "Check how safe is an area",
-            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/crime-alert.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "summary": "Check how is it outside",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/weather.jpg",
+            "description": "A weather application to get the temperature, weather condition of a particular city.",
+            "features": [
+                "User can enter the name of a city",
+                "User can see the current temperature, wind and other details for the selected city",
+                "User can see the forecast for few days for selected city",
+                "User can change units for temperature, wind speed, etc"
+            ],
             "useful_resources": [],
             "tags": [
                 "location",
-                "map",
-                "api"
+                "api",
+                "weather"
             ],
             "search_keywords": [
-                "crime",
-                "alert"
+                "weather"
             ]
         }
     }
