@@ -353,8 +353,14 @@
         "attributes": {
             "summary": "Testing knowledge in a fun way",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/quiz.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Practice and test your knowledge by answering questions in a quiz application.",
+            "features": [
+                "User can see a question with 4 possible answers",
+                "After selecting an answer, user is presented with another question",
+                "The situation repeats until the quiz is finished",
+                "At the end, the user can see statistics about their answers",
+                "User can share the results"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
