@@ -375,8 +375,12 @@
         "attributes": {
             "summary": "Finding a place to park a vehicle",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/parking.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Finding a place to park could a very hard in busy locations. This app can make it easier.",
+            "features": [
+                "User can enter a location to search for available parking spaces",
+                "User can select a place on the map",
+                "User can see the route to the selected place"
+            ],
             "useful_resources": [],
             "tags": [
                 "map",
