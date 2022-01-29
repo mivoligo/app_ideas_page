@@ -272,11 +272,17 @@
         "attributes": {
             "summary": "Also knows as noughts and crosses, or Xs and Os",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/tic-tac-toe.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "Popular game in a digital form. You can learn how to create game logic and program AI ;)",
+            "features": [
+                "User can select who starts first",
+                "User can select if he uses X or O",
+                "AI tries to win",
+                "Score is displayed after the game"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
+                "AI",
                 "game"
             ],
             "search_keywords": [
