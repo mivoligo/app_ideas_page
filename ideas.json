@@ -347,8 +347,15 @@
         "attributes": {
             "summary": "Keeping records of spending on fuel",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/fuel.jpg",
-            "description": "Lorem ipsum sit dolor amet ",
-            "features": [],
+            "description": "The app might be very helpful for car owners. It would let them keeping track on spending on fuel and distance travelled.",
+            "features": [
+                "User can enter the amount of fuel",
+                "User can enter the cost of fuel",
+                "User can enter odometer reading",
+                "User can enter date of refueling",
+                "User can change units",
+                "User can see statistics about car's fuel efficiency, distance traveled, etc"
+            ],
             "useful_resources": [],
             "tags": [
                 "beginner",
