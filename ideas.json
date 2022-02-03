@@ -1,5 +1,29 @@
 [
     {
+        "id": "21",
+        "name": "Random number generator",
+        "attributes": {
+            "summary": "Generating a number",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/random-number-generator.jpg",
+            "description": "Generate a random number between a defined minimum and maximum.",
+            "features": [
+                "User can define minimum and maximum values",
+                "User can press a button to generate the random number",
+                "User can add option for negative values",
+                "User can add option for decimal numbers"
+            ],
+            "useful_resources": [],
+            "tags": [
+                "math"
+            ],
+            "search_keywords": [
+                "random",
+                "number",
+                "generator"
+            ]
+        }
+    },
+    {
         "id": "20",
         "name": "To-Do",
         "attributes": {
