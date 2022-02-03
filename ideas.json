@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "20",
         "name": "To-Do",
         "attributes": {
             "summary": "Managing various tasks",
@@ -28,7 +28,7 @@
         }
     },
     {
-        "id": "2",
+        "id": "19",
         "name": "Weight tracker",
         "attributes": {
             "summary": "Keeping records of body weight",
@@ -55,7 +55,7 @@
         }
     },
     {
-        "id": "3",
+        "id": "18",
         "name": "Calculator",
         "attributes": {
             "summary": "Performing simple or complicated calculations",
@@ -80,7 +80,7 @@
         }
     },
     {
-        "id": "4",
+        "id": "17",
         "name": "Expenses tracker",
         "attributes": {
             "summary": "Keeping track of money spend",
@@ -108,7 +108,7 @@
         }
     },
     {
-        "id": "5",
+        "id": "16",
         "name": "Pomodoro timer",
         "attributes": {
             "summary": "Managing time efficiently using Pomodoro technique",
@@ -133,7 +133,7 @@
         }
     },
     {
-        "id": "6",
+        "id": "15",
         "name": "Meme generator",
         "attributes": {
             "summary": "Creating memes",
@@ -162,7 +162,7 @@
         }
     },
     {
-        "id": "7",
+        "id": "14",
         "name": "Recipes",
         "attributes": {
             "summary": "Helpful when preparing food",
@@ -187,7 +187,7 @@
         }
     },
     {
-        "id": "8",
+        "id": "13",
         "name": "Book finder",
         "attributes": {
             "summary": "Finding books",
@@ -211,7 +211,7 @@
         }
     },
     {
-        "id": "9",
+        "id": "12",
         "name": "Notes",
         "attributes": {
             "summary": "Simple sticky notes",
@@ -237,7 +237,7 @@
         }
     },
     {
-        "id": "10",
+        "id": "11",
         "name": "Personal diary",
         "attributes": {
             "summary": "Keeping records of various events",
@@ -267,7 +267,7 @@
         }
     },
     {
-        "id": "11",
+        "id": "10",
         "name": "Tic-tac-toe",
         "attributes": {
             "summary": "Also knows as noughts and crosses, or Xs and Os",
@@ -291,7 +291,7 @@
         }
     },
     {
-        "id": "12",
+        "id": "9",
         "name": "Unit converter",
         "attributes": {
             "summary": "Converting between various measurement units",
@@ -316,7 +316,7 @@
         }
     },
     {
-        "id": "13",
+        "id": "8",
         "name": "Chat",
         "attributes": {
             "summary": "Text message communication",
@@ -342,7 +342,7 @@
         }
     },
     {
-        "id": "14",
+        "id": "7",
         "name": "Fuel calculator",
         "attributes": {
             "summary": "Keeping records of spending on fuel",
@@ -370,7 +370,7 @@
         }
     },
     {
-        "id": "15",
+        "id": "6",
         "name": "Parking finder",
         "attributes": {
             "summary": "Finding a place to park a vehicle",
@@ -394,7 +394,7 @@
         }
     },
     {
-        "id": "16",
+        "id": "5",
         "name": "Counter",
         "attributes": {
             "summary": "Counting things",
@@ -419,7 +419,7 @@
         }
     },
     {
-        "id": "17",
+        "id": "4",
         "name": "Quiz",
         "attributes": {
             "summary": "Testing knowledge in a fun way",
@@ -444,7 +444,7 @@
         }
     },
     {
-        "id": "18",
+        "id": "3",
         "name": "Shopping list",
         "attributes": {
             "summary": "Getting the right stuff at the shop",
@@ -469,7 +469,7 @@
         }
     },
     {
-        "id": "19",
+        "id": "2",
         "name": "Event reminder",
         "attributes": {
             "summary": "Don't forget about important events",
@@ -495,7 +495,7 @@
         }
     },
     {
-        "id": "20",
+        "id": "1",
         "name": "Weather",
         "attributes": {
             "summary": "Check how is it outside",
