@@ -1,5 +1,33 @@
 [
     {
+        "id": "22",
+        "name": "Emoji translator",
+        "attributes": {
+            "summary": "Translate text to emoji",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/emoji-translator.jpg",
+            "description": "Emojis have become the lingua franca of modern society. They are a fun and fast way to communicate, but an also extremely expressive mechanism for communicating emotions and reactions.\nThe objective of the Emoji Translator app is to translate text entered by the user into an equivalent string of emojis, translated from one or more words in the original text, and words for which there is no corresponding emoji.",
+            "features": [
+                "User can enter a string of words, numbers, and punctuation into a text box",
+                "User can click a button to translate words in the entered text into their corresponding emojis",
+                "User can add option for negative valuesUser can see text elements in the entered text translated to their equivalent emojis. Text elements for which there is no emoji will be left unchanged.",
+                "User can translate emojis to text"
+            ],
+            "useful_resources": [
+                {
+                    "Full Emoji List": "https://unicode.org/emoji/charts/full-emoji-list.html"
+                }
+            ],
+            "tags": [
+                "emoji",
+                "translation"
+            ],
+            "search_keywords": [
+                "emoji",
+                "translator"
+            ]
+        }
+    },
+    {
         "id": "21",
         "name": "Random number generator",
         "attributes": {
