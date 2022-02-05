@@ -1,5 +1,38 @@
 [
     {
+        "id": "23",
+        "name": "Countdown timer",
+        "attributes": {
+            "summary": "Count time to an event",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/countdown-timer.jpg",
+            "description": "We all have important events we look forward to in life, birthdays, anniversaries, and holidays to name a few. Wouldn't it be nice to have an app that counts down the months, days, hours, minutes, and seconds to an event? Countdown Timer is just that app!",
+            "features": [
+                "User can input a name of an event",
+                "User can input or select time and date of an event",
+                "User can start the countdown",
+                "User can see the remaining time to the event",
+                "Countdown timers persist across sessions",
+                "Notification reminds about the event"
+            ],
+            "useful_resources": [
+                {
+                    "Article about calendars in Wikipedia": "https://wikipedia.org/wiki/Calendar",
+                    "Article about ISO 8601 standard related to date and time": "https://wikipedia.org/wiki/ISO_8601"
+                }
+            ],
+            "tags": [
+                "time",
+                "calendar",
+                "math",
+                "persistance"
+            ],
+            "search_keywords": [
+                "countdown",
+                "timer"
+            ]
+        }
+    },
+    {
         "id": "22",
         "name": "Emoji translator",
         "attributes": {
