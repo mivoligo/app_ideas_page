@@ -1,5 +1,36 @@
 [
     {
+        "id": "24",
+        "name": "Dice roll simulator",
+        "attributes": {
+            "summary": "Simulate rolling dice",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/dice-roll-simulator.jpg",
+            "description": "A traditional die is a cube with each of its six faces marked with a different number of dots from one to six. Dice may also have other number of faces with numerals or symbols instead of dots.",
+            "features": [
+                "User can see a dice",
+                "User can press a button to simulate dice roll",
+                "User can see the result of the roll",
+                "User can select number of dice to simulate",
+                "User can select different types of dice"
+            ],
+            "useful_resources": [
+                {
+                    "Wikipedia article about dice": "https://wikipedia.org/wiki/Dice"
+                }
+            ],
+            "tags": [
+                "game",
+                "math",
+                "randomness"
+            ],
+            "search_keywords": [
+                "dice",
+                "roll",
+                "simulator"
+            ]
+        }
+    },
+    {
         "id": "23",
         "name": "Countdown timer",
         "attributes": {
