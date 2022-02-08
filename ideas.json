@@ -1,5 +1,35 @@
 [
     {
+        "id": "25",
+        "name": "Mood tracker",
+        "attributes": {
+            "summary": "Keep track of your mood changes",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/mood-tracker.jpg",
+            "description": "Such an app allows users to add and evaluate their activities, events, and locations the whole day. Then the app can analyze their past actions and looks for the patterns.",
+            "features": [
+                "User can enter their current mood",
+                "User can select a predefined mood",
+                "User can add notes related to the current mood",
+                "User can review entries recorded previously",
+                "User can edit entries",
+                "User can delete entries"
+            ],
+            "useful_resources": [
+                {}
+            ],
+            "tags": [
+                "personal",
+                "calendar",
+                "database",
+                "persistance"
+            ],
+            "search_keywords": [
+                "mood",
+                "tracker"
+            ]
+        }
+    },
+    {
         "id": "24",
         "name": "Dice roll simulator",
         "attributes": {
