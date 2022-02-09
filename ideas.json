@@ -1,7 +1,7 @@
 [
     {
         "id": "26",
-        "name": "URL shortener",
+        "name": "URL Shortener",
         "attributes": {
             "summary": "Nobody remembers long links",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/url-shortener.jpg",
@@ -35,7 +35,7 @@
     },
     {
         "id": "25",
-        "name": "Mood tracker",
+        "name": "Mood Tracker",
         "attributes": {
             "summary": "Keep track of your mood changes",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/mood-tracker.jpg",
@@ -65,7 +65,7 @@
     },
     {
         "id": "24",
-        "name": "Dice roll simulator",
+        "name": "Dice Roll Simulator",
         "attributes": {
             "summary": "Simulate rolling dice",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/dice-roll-simulator.jpg",
@@ -96,7 +96,7 @@
     },
     {
         "id": "23",
-        "name": "Countdown timer",
+        "name": "Countdown Timer",
         "attributes": {
             "summary": "Count time to an event",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/countdown-timer.jpg",
@@ -129,7 +129,7 @@
     },
     {
         "id": "22",
-        "name": "Emoji translator",
+        "name": "Emoji Translator",
         "attributes": {
             "summary": "Translate text to emoji",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/emoji-translator.jpg",
@@ -157,7 +157,7 @@
     },
     {
         "id": "21",
-        "name": "Random number generator",
+        "name": "Random Number Generator",
         "attributes": {
             "summary": "Generating a number",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/random-number-generator.jpg",
@@ -209,7 +209,7 @@
     },
     {
         "id": "19",
-        "name": "Weight tracker",
+        "name": "Weight Tracker",
         "attributes": {
             "summary": "Keeping records of body weight",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/wheight-tracker.jpg",
@@ -261,7 +261,7 @@
     },
     {
         "id": "17",
-        "name": "Expenses tracker",
+        "name": "Expenses Tracker",
         "attributes": {
             "summary": "Keeping track of money spend",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/expenses-tracker.jpg",
@@ -289,7 +289,7 @@
     },
     {
         "id": "16",
-        "name": "Pomodoro timer",
+        "name": "Pomodoro Timer",
         "attributes": {
             "summary": "Managing time efficiently using Pomodoro technique",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/pomodoro.jpg",
@@ -314,7 +314,7 @@
     },
     {
         "id": "15",
-        "name": "Meme generator",
+        "name": "Meme Generator",
         "attributes": {
             "summary": "Creating memes",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/meme-generator.jpg",
@@ -368,7 +368,7 @@
     },
     {
         "id": "13",
-        "name": "Book finder",
+        "name": "Book Finder",
         "attributes": {
             "summary": "Finding books",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/book-database.jpg",
@@ -418,7 +418,7 @@
     },
     {
         "id": "11",
-        "name": "Personal diary",
+        "name": "Personal Diary",
         "attributes": {
             "summary": "Keeping records of various events",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/diary.jpg",
@@ -472,7 +472,7 @@
     },
     {
         "id": "9",
-        "name": "Unit converter",
+        "name": "Unit Converter",
         "attributes": {
             "summary": "Converting between various measurement units",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/unit-converter.jpg",
@@ -523,7 +523,7 @@
     },
     {
         "id": "7",
-        "name": "Fuel calculator",
+        "name": "Fuel Calculator",
         "attributes": {
             "summary": "Keeping records of spending on fuel",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/fuel.jpg",
@@ -551,7 +551,7 @@
     },
     {
         "id": "6",
-        "name": "Parking finder",
+        "name": "Parking Finder",
         "attributes": {
             "summary": "Finding a place to park a vehicle",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/parking.jpg",
@@ -625,7 +625,7 @@
     },
     {
         "id": "3",
-        "name": "Shopping list",
+        "name": "Shopping List",
         "attributes": {
             "summary": "Getting the right stuff at the shop",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/shopping-list.jpg",
@@ -650,7 +650,7 @@
     },
     {
         "id": "2",
-        "name": "Event reminder",
+        "name": "Event Reminder",
         "attributes": {
             "summary": "Don't forget about important events",
             "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/reminder.jpg",
