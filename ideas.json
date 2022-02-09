@@ -1,5 +1,39 @@
 [
     {
+        "id": "26",
+        "name": "URL shortener",
+        "attributes": {
+            "summary": "Nobody remembers long links",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/url-shortener.jpg",
+            "description": "It's hard to remember a long web address, especially if it has a lot of characters, symbols and numbers.",
+            "features": [
+                "User can see a text field",
+                "User can paste a long URL",
+                "Short URL is generated",
+                "User can see the short URL",
+                "User can copy and share the short URL",
+                "User can have an option to select URL shortener service"
+            ],
+            "useful_resources": [
+                {
+                    "Bitly API": "https://dev.bitly.com/api-reference",
+                    "Rebrandly API": "https://developers.rebrandly.com",
+                    "TinyURL API": "https://tinyurl.com/app/dev"
+                }
+            ],
+            "tags": [
+                "url",
+                "api",
+                "sharing",
+                "social media"
+            ],
+            "search_keywords": [
+                "url",
+                "shortener"
+            ]
+        }
+    },
+    {
         "id": "25",
         "name": "Mood tracker",
         "attributes": {
