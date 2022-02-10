@@ -1,5 +1,32 @@
 [
     {
+        "id": "27",
+        "name": "Snake Game",
+        "attributes": {
+            "summary": "Classic game",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/snake-game.jpg",
+            "description": "Snake is a video game genre where the player maneuvers a growing line that becomes a primary obstacle to itself.",
+            "features": [
+                "User can direct the snake",
+                "User get points for good play",
+                "User see the score at the and of the game"
+            ],
+            "useful_resources": [
+                {
+                    "Wikipedia article about Snake game": "https://wikipedia.org/wiki/Snake_(video_game_genre)"
+                }
+            ],
+            "tags": [
+                "game",
+                "math"
+            ],
+            "search_keywords": [
+                "snake",
+                "game"
+            ]
+        }
+    },
+    {
         "id": "26",
         "name": "URL Shortener",
         "attributes": {
