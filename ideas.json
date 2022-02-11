@@ -1,5 +1,41 @@
 [
     {
+        "id": "28",
+        "name": "News Aggregator",
+        "attributes": {
+            "summary": "Be informed about current events",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/news-aggregator.jpg",
+            "description": "Get political, entertainment, sports, global, local and other news all in one place",
+            "features": [
+                "User can select type of news, for example: sport, art, politics etc.",
+                "User can select language for news",
+                "User can see news feed of selected types",
+                "User can filter the feed",
+                "User can bookmark a news",
+                "User can share the news"
+            ],
+            "useful_resources": [
+                {
+                    "News API website": "https://newsapi.org/",
+                    "HackerNews API on Github": "https://github.com/HackerNews/API",
+                    "Bing News Search API": "https://www.microsoft.com/bing/apis/bing-news-search-api"
+                }
+            ],
+            "tags": [
+                "api",
+                "database",
+                "location",
+                "online",
+                "sharing",
+                "social media"
+            ],
+            "search_keywords": [
+                "news",
+                "aggregator"
+            ]
+        }
+    },
+    {
         "id": "27",
         "name": "Snake Game",
         "attributes": {
