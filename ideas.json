@@ -1,5 +1,32 @@
 [
     {
+        "id": "29",
+        "name": "Piano",
+        "attributes": {
+            "summary": "Play sounds",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/piano.jpg",
+            "description": "Creating a simple piano will let you learn how to handle sound in your app.",
+            "features": [
+                "User can see piano keyboard",
+                "User can press a key to hear the corresponding sound",
+                "User can press multiple keys at once"
+            ],
+            "useful_resources": [
+                {
+                    "Musical keyboard layout on Wikipedia": "https://wikipedia.org/wiki/Musical_keyboard",
+                    "Freesound: a database of Creative Commons Licensed sounds": "https://freesound.org/"
+                }
+            ],
+            "tags": [
+                "sound"
+            ],
+            "search_keywords": [
+                "simple",
+                "piano"
+            ]
+        }
+    },
+    {
         "id": "28",
         "name": "News Aggregator",
         "attributes": {
