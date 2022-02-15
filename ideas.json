@@ -1,5 +1,35 @@
 [
     {
+        "id": "30",
+        "name": "Lorem Ipsum Generator",
+        "attributes": {
+            "summary": "Generate Lorem Ipsum placeholder text.",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/lorem-ipsum-generator.jpg",
+            "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+            "features": [
+                "User can specify number of words to generate",
+                "User can specify number of paragraphs to generate",
+                "User can copy generated text",
+                "User can share generated text"
+            ],
+            "useful_resources": [
+                {
+                    "Lorem ipsum on Wikipedia": "https://wikipedia.org/wiki/Lorem_ipsum"
+                }
+            ],
+            "tags": [
+                "text",
+                "sharing",
+                "randomness"
+            ],
+            "search_keywords": [
+                "lorem",
+                "ipsum",
+                "generator"
+            ]
+        }
+    },
+    {
         "id": "29",
         "name": "Piano",
         "attributes": {
