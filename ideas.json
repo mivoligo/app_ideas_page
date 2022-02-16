@@ -1,5 +1,34 @@
 [
     {
+        "id": "31",
+        "name": "Sudoku",
+        "attributes": {
+            "summary": "Popular number-placement puzzle",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/sudoku.jpg",
+            "description": "In classic sudoku, the objective is to fill a 9 x 9 grid with digits so that each column, each row, and each of the nine 3 × 3 subgrids that compose the grid (also called \"boxes\", \"blocks\", or \"regions\") contain all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution.",
+            "features": [
+                "User can see the starting grid with numbers",
+                "User can select an empty grid cell",
+                "User can select what number to place in the cell",
+                "User is notified when the gird is successfully filled",
+                "User can chose difficulty of the game"
+            ],
+            "useful_resources": [
+                {
+                    "Lorem ipsum on Wikipedia": "https://wikipedia.org/wiki/Sudoku"
+                }
+            ],
+            "tags": [
+                "math",
+                "game",
+                "randomness"
+            ],
+            "search_keywords": [
+                "sudoku"
+            ]
+        }
+    },
+    {
         "id": "30",
         "name": "Lorem Ipsum Generator",
         "attributes": {
