@@ -1,5 +1,37 @@
 [
     {
+        "id": "32",
+        "name": "Couch To 5K",
+        "attributes": {
+            "summary": "Takes people from their couch to running 5 kilometers",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/c25k.jpg",
+            "description": "The program utilizes a concept called interval training - moving at different speeds throughout a running session - and lays out exactly what to do every day for 6-12 weeks after starting.",
+            "features": [
+                "User can see information about the training program",
+                "User can start the training session",
+                "User is informed what to do during the session",
+                "User can review their progress"
+            ],
+            "useful_resources": [
+                {
+                    "Details about Couch to 5K on NHS UK": "https://www.nhs.uk/live-well/exercise/couch-to-5k-week-by-week/"
+                }
+            ],
+            "tags": [
+                "math",
+                "sport",
+                "persistance",
+                "personal",
+                "database",
+                "calendar",
+                "time"
+            ],
+            "search_keywords": [
+                "c25k"
+            ]
+        }
+    },
+    {
         "id": "31",
         "name": "Sudoku",
         "attributes": {
@@ -15,7 +47,7 @@
             ],
             "useful_resources": [
                 {
-                    "Lorem ipsum on Wikipedia": "https://wikipedia.org/wiki/Sudoku"
+                    "Sudoku on Wikipedia": "https://wikipedia.org/wiki/Sudoku"
                 }
             ],
             "tags": [
