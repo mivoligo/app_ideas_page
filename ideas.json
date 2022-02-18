@@ -1,5 +1,38 @@
 [
     {
+        "id": "33",
+        "name": "Wedding Planner",
+        "attributes": {
+            "summary": "Personal wedding planner in your pocket",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/wedding-planner.jpg",
+            "description": "A wedding planner is usually a professional who assists with the design, planning and management of a client's wedding. Why not make an app which can handle all that?",
+            "features": [
+                "Wedding checklist",
+                "Wedding guests list",
+                "Countdown to the wedding day",
+                "Option to search for a venue and suppliers",
+                "Budget tool"
+            ],
+            "useful_resources": [
+                {}
+            ],
+            "tags": [
+                "persistance",
+                "personal",
+                "database",
+                "calendar",
+                "time",
+                "money",
+                "location",
+                "map"
+            ],
+            "search_keywords": [
+                "wedding",
+                "planner"
+            ]
+        }
+    },
+    {
         "id": "32",
         "name": "Couch To 5K",
         "attributes": {
