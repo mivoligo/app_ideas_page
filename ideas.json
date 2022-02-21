@@ -1,5 +1,35 @@
 [
     {
+        "id": "34",
+        "name": "XKCD Viewer",
+        "attributes": {
+            "summary": "A webcomic of romance, sarcasm, math, and language.",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/xkcd-viewer.png",
+            "description": "xkcd is a popular webcomic created by Randall Munroe. You can create an app for viewing the comic.",
+            "features": [
+                "User can see the latest comic strip",
+                "User can see the alt text",
+                "User can browse previous comic strips"
+            ],
+            "useful_resources": [
+                {
+                    "xkcd website": "https://xkcd.com",
+                    "xkcd json": "https://xkcd.com/json.html"
+                }
+            ],
+            "tags": [
+                "api",
+                "image",
+                "online",
+                "url"
+            ],
+            "search_keywords": [
+                "xkcd",
+                "viewer"
+            ]
+        }
+    },
+    {
         "id": "33",
         "name": "Wedding Planner",
         "attributes": {
