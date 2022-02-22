@@ -1,5 +1,35 @@
 [
     {
+        "id": "35",
+        "name": "Astronomy Picture Of The Day",
+        "attributes": {
+            "summary": "Daily image from NASA",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/apod.jpg",
+            "description": "One of the most popular websites at NASA is the Astronomy Picture of the Day. You can build an app to get that picture using the NASA API.",
+            "features": [
+                "User can see the picture of the day",
+                "User can see description related  to the picture",
+                "User can browse previous pictures",
+                "User can set the picture as a wallpaper"
+            ],
+            "useful_resources": [
+                {
+                    "NASA API": "https://api.nasa.gov"
+                }
+            ],
+            "tags": [
+                "api",
+                "image",
+                "online",
+                "url"
+            ],
+            "search_keywords": [
+                "nasa",
+                "picture"
+            ]
+        }
+    },
+    {
         "id": "34",
         "name": "XKCD Viewer",
         "attributes": {
