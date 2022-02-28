@@ -1,5 +1,34 @@
 [
     {
+        "id": "36",
+        "name": "Depth Of Field Calculator",
+        "attributes": {
+            "summary": "Useful for photographers",
+            "image": "https://raw.githubusercontent.com/mivoligo/app_ideas_page/main/thumbnails/dof-calculator.jpg",
+            "description": "For many cameras, depth of field (DOF) is the distance between the nearest and the farthest objects that are in acceptably sharp focus in an image. The depth of field can be calculated based on focal length, distance to subject, the acceptable circle of confusion size, and aperture.",
+            "features": [
+                "User can select a camera model",
+                "User can select a lens",
+                "User can select aperture, distance and focal length",
+                "User can see the result of calculation"
+            ],
+            "useful_resources": [
+                {
+                    "Depth of field on Wikipedia": "https://wikipedia.org/wiki/Depth_of_field",
+                    "Depth of field on Cambridge in Colour": "https://www.cambridgeincolour.com/tutorials/depth-of-field.htm"
+                }
+            ],
+            "tags": [
+                "image",
+                "math"
+            ],
+            "search_keywords": [
+                "dof",
+                "calculator"
+            ]
+        }
+    },
+    {
         "id": "35",
         "name": "Astronomy Picture Of The Day",
         "attributes": {
