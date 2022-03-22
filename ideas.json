@@ -471,7 +471,11 @@
                 "User can add option for negative values",
                 "User can add option for decimal numbers"
             ],
-            "useful_resources": [],
+            "useful_resources": [
+                {
+                    "Random number generation in Wikipedia":"https://wikipedia.org/wiki/Random_number_generation"
+                }
+            ],
             "tags": [
                 "math"
             ],
@@ -498,7 +502,11 @@
                 "Tasks can have details like: created date, due date or priority",
                 "User can put tasks in groups"
             ],
-            "useful_resources": [],
+            "useful_resources": [
+                {
+                    "Wikipedia article about GTD system":"https://wikipedia.org/wiki/Getting_Things_Done"
+                }
+            ],
             "tags": [
                 "beginner",
                 "persistance",
